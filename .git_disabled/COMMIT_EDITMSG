@@ -1,4 +1,0 @@
-🔧 chore: OpenAPIドキュメントの有効化
-
-- docs_url, redoc_url, openapi_urlの設定を削除
-- APIドキュメントを再度利用可能に変更
